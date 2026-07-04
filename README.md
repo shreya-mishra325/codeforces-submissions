@@ -6,15 +6,36 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 3 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [brute force](#brute-force) (1)
+- [implementation](#implementation) (1)
+- [math](#math) (1)
 - [strings](#strings) (1)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shreya-mishra325/codeforces-submissions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shreya-mishra325/codeforces-submissions/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shreya-mishra325/codeforces-submissions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 
 ### strings
 

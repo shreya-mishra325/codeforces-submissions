@@ -6,18 +6,25 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 4 |
+| 5 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [*special](#special) (1)
 - [brute force](#brute-force) (1)
-- [implementation](#implementation) (2)
+- [implementation](#implementation) (3)
 - [math](#math) (1)
 - [strings](#strings) (1)
 
 ---
+
+### *special
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shreya-mishra325/codeforces-submissions/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 
 ### brute force
 
@@ -29,6 +36,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shreya-mishra325/codeforces-submissions/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shreya-mishra325/codeforces-submissions/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/shreya-mishra325/codeforces-submissions/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
 
